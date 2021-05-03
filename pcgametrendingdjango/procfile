@@ -1,0 +1,1 @@
+web: gunicorn pcgametrendingdjango.wsgi --log-file -
